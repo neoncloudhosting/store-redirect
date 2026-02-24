@@ -38,7 +38,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the CHICKEN rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/chicken'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/chicken'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit chicken'
@@ -75,7 +75,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the FOX rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/fox'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/fox'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit fox'
@@ -113,7 +113,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the WITCH rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/witch'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/witch'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit witch'
@@ -154,7 +154,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the SQUID rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/squid'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/squid'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit squid'
@@ -198,7 +198,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the CREEPER rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/creeper'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/creeper'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit creeper'
@@ -247,7 +247,7 @@ items:
       - '[message] &f &7Please click the link below to continue your'
       - '[message] &f &7purchase of the GOAT rank!'
       - '[message] &f'
-      - '[message] &f &#FFD700&nstore.yourserver.com/goat'
+      - '[message] &f &#FFD700&nstore.sharpnesssword.net/goat'
       - '[message] &f'
     right_click_commands:
       - '[player] previewkit goat'
@@ -270,8 +270,9 @@ items:
       - '&#FFD700◆&f If you have any questions, please contact one'
       - '&f  of our Staff Members!'
       - '&r'
-      - '&#FFD700&nstore.yourserver.com'
+      - '&#FFD700&nstore.sharpnesssword.net'
   
 
     
+
   
