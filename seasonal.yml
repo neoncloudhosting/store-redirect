@@ -25,7 +25,7 @@ items:
       - '&c◆ &fCoin Balance: &c%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
 
 # Seasonal Keys
 
@@ -55,7 +55,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -85,7 +85,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -120,7 +120,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -151,7 +151,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -185,7 +185,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -216,7 +216,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -238,4 +238,5 @@ items:
     left_click_commands:
       - '[openguimenu] coinshop'
     
+
   
