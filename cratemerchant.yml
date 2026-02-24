@@ -125,7 +125,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -160,7 +160,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -191,7 +191,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -226,7 +226,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -257,7 +257,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -292,7 +292,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -323,7 +323,7 @@ items:
       - '&e◆ &fYour Coin Balance: &e%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -359,7 +359,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -389,7 +389,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -424,7 +424,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -455,7 +455,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -490,7 +490,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -521,7 +521,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -556,7 +556,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -587,7 +587,7 @@ items:
       - '&6◆ &fYour Coin Balance: &6%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -623,7 +623,7 @@ items:
       - '&5◆ &fYour Coin Balance: &5%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -653,7 +653,7 @@ items:
       - '&5◆ &fYour Coin Balance: &5%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -688,7 +688,7 @@ items:
       - '&5◆ &fYour Coin Balance: &5%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
@@ -719,7 +719,7 @@ items:
       - '&5◆ &fYour Coin Balance: &5%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&4&l❌ &cYou do not have enough Coins!'
     left_click_commands:
@@ -754,7 +754,7 @@ items:
       - '&5◆ &fYour Coin Balance: &5%coinsengine_balance_coins%'
       - ''
       - '&#ff69e3Purchase coins from'
-      - '&#e332c2&lSTORE.YOURSERVER.COM'
+      - '&#e332c2&lstore.sharpnesssword.net'
       - '&r'
       - '&2→ &aClick to purchase!'
     left_click_commands:
